@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exam
+namespace Exam // создал для себя
 {
     enum Color
     {
